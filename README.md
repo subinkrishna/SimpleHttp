@@ -1,5 +1,8 @@
 # simple-http
-A WIP simple basic HTTP library 
+A simple basic HTTP library 
+
+> Note: 
+> This is an experimental library, supports only GET & POST. I am not actively working in this repository.
 
 **Usage**
 ```java
